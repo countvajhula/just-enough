@@ -2,7 +2,7 @@
 =============
 Learn just enough words and concepts and grammatical rules to get by in a foreign language, and also bootstrap further learning.
 
-The words are selected loosely based on <link> with the rationale being that "high level" concepts, being less general, are less useful than low-level, general concepts.
+The words are selected loosely based on the theory of `epistemic levels <http://self.drym.com/a-foundation-for-knowledge-a-framework-for-peace/>`_ with the rationale being that "high level" concepts, being less general, are less useful than low-level, general concepts.
 
 For instance, "push" and "pull" are elementary notions, while "sculpt" is a more nuanced, more specific, high level concept. Likewise, "fall" is lower level, while "slip" is higher level.
 
@@ -19,7 +19,7 @@ Things to be Added:
 
 Motivation:
 ===========
-In ancient times, how did people conduct business, trade, and friendship across the language barrier when learning resources were perhaps hard to come by? This was the question that came up recently in conversation with @jairtrejo. He suggested that maybe people didn't typically know other languages in detail; that they knew "just enough" to get by with the essentials.
+In ancient times, how did people conduct business, trade, and friendship across the language barrier when learning resources were perhaps hard to come by? This was the question that came up in conversation a little while back with `@jairtrejo <https://github.com/jairtrejo>`_. He suggested that maybe people didn't typically know other languages in detail; that they knew "just enough" to get by with the essentials.
 
 It could be said that not much has really changed as far as language is concerned. While widely spoken languages are perhaps more common now, we still often interact across the linguistic divide, and many of us are too lazy to spend a lot of time learning even with a wealth of available resources, and when travel time is upon us we struggle hopelessly to say what we mean and vow that next time will be different, that we'll learn the language for sure upon returning home. And of course, rarely follow through.
 
@@ -31,4 +31,4 @@ For now it's just an idea and a word list and some example sentences. But it wou
 
 "License":
 ==========
-All content is "part of the world." You are free to do whatever you like with it and it isn't owned by anybody (not even the creators). Attribution would be appreciated and would help, but it is not strictly necessary nor required. If you'd like to learn more about this way of doing things and how it could lead to a peaceful, efficient, and creative world (and how you can be involved), visit drym.org.
+All content is "part of the world." You are free to do whatever you like with it and it isn't owned by anybody (not even the creators). Attribution would be appreciated and would help, but it is not strictly necessary nor required. If you'd like to learn more about this way of doing things and how it could lead to a peaceful, efficient, and creative world (and how you can be involved), visit `drym.org <https://drym.org>`_.
