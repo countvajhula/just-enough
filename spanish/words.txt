@@ -1,0 +1,454 @@
+= SPANISH =
+
+                            To..., I, we, you, s/he, they
+                            alte, rnate, forms
+                            masculine, feminine
+                            to verb, adjective
+─────────────────────────────────────────────────────────────
+Core
+--------------------------------------------
+I                           yo
+we                          nosotros
+he/she                      el/ella
+you                         tu, usted
+they                        ellos, ellas
+am/are/is                   soy/estoy, estamos, esta/eres, es, son
+my                          mi
+your                        tu
+his/her/their               su
+our                         nuestr(a/o)
+a                           un, una
+the                         el
+yes                         si
+no                          no
+have                        tener, tengo, tenemos, tienes, tiene, tienen
+in                          en
+where                       donde
+why                         por qué
+what                        qué
+how                         cómo
+when                        cuando
+which                       cual
+to                          a
+with                        con
+without                     sin
+inside                      dentro
+out                         fuera
+want                        querer, quiero, queremos, queires, quiere, quieren
+need                        necesitar, necesito, necesitamos, necesitas, necesita, necesitan
+like                        gustar, gusta
+here                        aquí
+there                       ahí
+or                          o
+and                         y
+one                         uno
+two                         dos
+three                       tres
+for                         para
+up                          arriba
+down                        abajo
+some                        algun(as/os)
+all                         todas
+any                         algun(a/o)
+none                        ningun(a/o)
+if                          si
+then (next)                 luego
+because                     porque
+this                        est(a/o)
+that                        es(a/e)
+other                       otr(a/o)
+to                          a
+too                         también
+at                          a
+of/from                     de
+help                        ayuda
+very                        muy
+point                       el punto
+many                        much(as/os)
+group                       un grupo
+relation/relationship       relación
+
+--------------------------------------------
+Body
+--------------------------------------------
+face                        la cara
+hair                        el cabello
+hand/hands                  la mano/las manos
+eye/eyes                    el ojo/los ojos
+leg/legs                    la pierna/las piernas
+pain                        el dolor
+pleasure                    el placer
+
+--------------------------------------------
+Elements
+--------------------------------------------
+air                         el aire
+light (as in sun)           la luz
+earth/land                  la tierra
+water                       el? agua
+liquid                      el liquido
+solid                       el solido
+gas                         el gas
+
+--------------------------------------------
+World
+--------------------------------------------
+sun                         el sol
+moon                        la luna
+stars                       la estrella
+French                      Francés
+space                       espacio
+place                       el sitio, el lugar
+location                    la posicion
+history                     historia
+news                        noticias
+schedule                    calendario
+program/timetable           programar
+
+--------------------------------------------
+Verbs
+--------------------------------------------
+see                         ver
+look                        mirar
+show                        mostrar
+touch                       tocar
+hold                        sostener
+offer                       ofrecer
+point                       apuntar
+lick                        lamer
+taste                       probar
+smell                       oler
+breathe                     respirar
+hear                        oir
+listen                      eschchar
+speak                       hablar, hablo, hablamos, hablas, habla, hablan
+feel                        sentir
+experience                  experimentar
+be                          ser
+perceive                    percibir
+express                     expresar
+make/do                     hacer, hago, hacemos, haces, hace, hacen
+use                         usar
+understand                  entender
+know                        saber
+close                       cerrar, cerrad(a/o)
+open                        abrir, abiert(a/o)
+sit                         sentar
+stand                       estar
+move                        mover
+go                          ir, voy, vamos, vas, va, van
+give                        dar
+take                        tomar, tomo, tomamos, toma, toma, toman
+receive                     recibir
+ask                         preguntar
+say/tell                    decir
+walk                        caminar
+run                         correr
+eat                         comer, como, comemos, comes, come, comen
+drink                       beber, bebo, bebemos, bebes, bebe, beben
+pay                         pagar, pago, pagamos, pagas, paga, pagan
+work                        trabajar
+read                        leer, leo, leemos, lees, lee, leen
+change                      cambiar, cambio, cambiamos, cambias, cambia, cambian
+create                      crear, creo, creamos, creas, crea, crean
+destroy                     destruir, destruyo, destruimos, destruyes, destruye, destruyen
+swim                        nadar, nado, nadamos, nadas, nada, nadan
+repeat                      repetir, repito, repetimos, repites, repite, repiten
+respond                     responder, respondo, respondemos,
+scratch                     rascar
+bite                        morder
+chew                        masticar
+kiss                        besar, beso, besamos, besas, besa, besan
+sing                        cantar
+dance                       bailar
+rub                         frotar
+push                        empujar
+pull                        tirar
+press                       oprimar/presionar
+grab                        agarrar
+squeeze                     apretar/exprimir
+release                     liberar
+lift                        levantar
+raise                       elevar
+lower                       reducir
+provide                     proveer
+plan                        planificar
+arrange                     ordenar, organizar
+lose                        perder
+find                        encontrar
+fall                        caer
+pick up/collect             recoger
+start                       comenzar
+stop                        detener
+continue                    continuar
+split                       dividir
+combine                     combinar
+join                        unir
+buy                         comprar
+sell                        vender
+participate                 participar
+include                     incluir
+exclude                     excluir
+enter                       entrar
+leave                       dejar
+complete                    completar
+
+--------------------------------------------
+Adjectives / Adverbs
+--------------------------------------------
+good                        buen(a/o)
+bad                         mal(a/o)
+well (adverb)               bien
+happy                       feliz
+sad                         triste
+angry                       enojad(a/o)
+empty                       vacía
+full                        lleno
+half                        medio
+clean                       limpio
+dirty                       sucio
+a little                    un poco
+a lot                       mucho
+origin                      el origen
+destination                 el destino
+beginning                   el comienzo
+end                         el fin
+forwards                    adelante
+backwards                   de espaldas
+back                        espaldas
+before                      antes
+after                       después
+above                       encima
+below                       abajo
+tall                        alt(a/o)
+short                       cort(a/o)
+bright                      brilliante
+dark                        oscur(a/o)
+black                       negr(a/o)
+white                       blanc(a/o)
+heavy                       pesad(a/o)
+light                       liger(a/o)
+slow                        lent(a/o)
+fast                        rápid(a/o)
+more                        más
+less                        menos
+high                        alt(a/o)
+higher                      mayor
+low                         baja
+lower                       bajo/inferior
+same as                     mism(a/o), igual
+different                   diferente
+horizontal                  horizontal
+vertical                    vertical
+elegant                     elegante
+intelligent                 intelligente
+
+--------------------------------------------
+Time
+--------------------------------------------
+moment                      el momento
+time                        el tiempo
+past                        el pasado
+future                      el futuro
+today                       hoy
+tomorrow                    mañana
+yesterday                   ayer       
+day after tomorrow          pasado mañana
+day before yesterday        anteayer
+week                        la semana
+month                       el mes
+year                        el año
+hour                        la hora
+now                         ahora
+soon                        pronto
+later                       luego
+morning                     la mañana
+afternoon                   la tarde
+evening                     la noche
+night                       la noche
+
+--------------------------------------------
+Relationships/Roles
+--------------------------------------------
+mother                      madre
+father                      padre
+girlfriend/boyfriend        novi(a/o)
+friend                      amig(a/o)
+daughter/son                hij(a/o)
+husband                     marido
+wife                        esposa
+grandmother/father          abuel(a/o)
+sister/brother              herman(a/o)
+granddaughter/son           niet(a/o)
+doctor                      doctor/doctora
+president                   president(a/e)
+pet                         mascota
+
+--------------------------------------------
+Living Beings
+--------------------------------------------
+man                         hombre
+woman                       mujer
+boy                         niño
+girl                        niña
+cat                         gat(a/o)
+dog                         perr(a/o)
+bird                        el pájaro
+animal                      el animal
+monkey                      mon(a/o)
+tree                        el árbol
+fish                        pescado
+turtle                      tortuga
+dinosaur                    el dinosaurio
+
+--------------------------------------------
+Conversation
+--------------------------------------------
+I am sorry                  lo siento
+please                      por favor
+thank you                   gracias
+you're welcome              de nada
+excuse me                   disculpe
+what's up?                  qué pasa
+English                     Ingles
+Spanish                     Español
+"Qua?"                      cómo?
+pardon?                     perdón?
+sure                        segur(a/o)
+see you                     nos vemos
+see you soon                te veo pronto
+see you later               hasta luego
+see you tomorrow            hasta mañana
+what time is it?            que hora es
+where are we?               dónde estamos
+what is your name?          cómo se llama?
+my name is Pedro            me llamo Pedro
+where are you from?         de donde eres?
+I am from the US            soy de Estados Unidos
+I am American               soy Americano
+
+--------------------------------------------
+Places
+--------------------------------------------
+airport                     el aeropuerto
+market                      el mercado
+bathroom                    el baño
+hospital                    el hospital
+office                      oficina
+restaurant                  restaurante
+ground                      el suelo
+sky                         el cielo
+
+--------------------------------------------
+Events
+--------------------------------------------
+breakfast                   desayuno
+lunch                       almuerz(a/o)
+dinner                      cena
+Day of the Dead             Dia de Muertos
+Christmas                   Navidad
+vacation                    las vacaciones
+
+--------------------------------------------
+Things
+--------------------------------------------
+container                   un contenedor
+taxi                        un taxi
+passport                    un pasaporte
+telephone                   un telefono
+suitcase                    maleta
+reservation                 un reserva
+bus                         un autobus
+ticket                      un boleto
+train                       un tren
+money                       el dinero
+bank                        el banco
+street                      la calle
+cup                         la taza
+check                       cuenta
+table                       mesa
+person                      persona
+house                       casa
+glass                       el vaso
+door                        la puerta
+window                      la ventana
+building                    el edificio
+book                        el libro
+asteroid                    el asteroide
+crater                      cráter
+shirt                       la camisa
+ocean                       el oceano, el mar (sea)
+boat                        el barco
+thing                       la cosa
+jungle                      la selva, la jungla
+clothes                     la ropa
+underwear                   la ropa interior
+
+--------------------------------------------
+Food
+--------------------------------------------
+milk                        leche
+apple                       manzana
+bread                       pan
+meat                        carne
+fish                        pescado
+cheese                      el queso
+sandwich                    el sandwich
+juice                       el jugo
+orange                      la naranja
+tea                         el té
+coffee                      el café
+sugar                       azucar
+salt                        sal
+salad                       ensalada
+tomato                      tomate
+food/meal                   comida
+
+
+To Add:
+hot
+cold
+warm
+cool
+hard
+soft
+straight
+curved
+round
+square
+sharp
+blunt
+inclined/sloped
+step
+play
+enjoy
+turn
+rotate
+shout
+whisper
+blow
+suck
+inhale
+exhale
+place (in a position)
+nod
+acknowledge
+flip/swap
+describe
+explain
+ride
+come
+as
+try(v)/attempt(n)
+together
+bag
+rain
+cloud
+days of the week
+put
+get/bring
+numbers
+
+Tense/hypothetical:
+should/could/would/will/did
+

@@ -1,0 +1,449 @@
+= CONCEPTS =
+
+─────────────────────────────────────────────────────────────
+Core
+--------------------------------------------
+I                           <word>
+we                          <word>
+he/she                      <word>
+you                         <word>
+they                        <word>
+am/are/is                   <word>
+my                          <word>
+your                        <word>
+his/her/their               <word>
+our                         <word>
+a                           <word>
+the                         <word>
+yes                         <word>
+no                          <word>
+have                        <word>
+in                          <word>
+where                       <word>
+why                         <word>
+what                        <word>
+how                         <word>
+when                        <word>
+which                       <word>
+to                          <word>
+with                        <word>
+without                     <word>
+inside                      <word>
+out                         <word>
+want                        <word>
+need                        <word>
+like                        <word>
+here                        <word>
+there                       <word>
+or                          <word>
+and                         <word>
+one                         <word>
+two                         <word>
+three                       <word>
+for                         <word>
+up                          <word>
+down                        <word>
+some                        <word>
+all                         <word>
+any                         <word>
+none                        <word>
+if                          <word>
+then (next)                 <word>
+because                     <word>
+this                        <word>
+that                        <word>
+other                       <word>
+to                          <word>
+too                         <word>
+at                          <word>
+of/from                     <word>
+help                        <word>
+very                        <word>
+point                       <word>
+many                        <word>
+group                       <word>
+relation/relationship       <word>
+
+--------------------------------------------
+Body
+--------------------------------------------
+face                        <word>
+hair                        <word>
+hand/hands                  <word>
+eye/eyes                    <word>
+leg/legs                    <word>
+pain                        <word>
+pleasure                    <word>
+
+--------------------------------------------
+Elements
+--------------------------------------------
+air                         <word>
+light (as in sun)           <word>
+earth/land                  <word>
+water                       <word>
+liquid                      <word>
+solid                       <word>
+gas                         <word>
+
+--------------------------------------------
+World
+--------------------------------------------
+sun                         <word>
+moon                        <word>
+stars                       <word>
+French                      <word>
+space                       <word>
+place                       <word>
+location                    <word>
+history                     <word>
+news                        <word>
+schedule                    <word>
+program/timetable           <word>
+
+--------------------------------------------
+Verbs
+--------------------------------------------
+see                         <word>
+look                        <word>
+show                        <word>
+touch                       <word>
+hold                        <word>
+offer                       <word>
+point                       <word>
+lick                        <word>
+taste                       <word>
+smell                       <word>
+breathe                     <word>
+hear                        <word>
+listen                      <word>
+speak                       <word>
+feel                        <word>
+experience                  <word>
+be                          <word>
+perceive                    <word>
+express                     <word>
+make/do                     <word>
+use                         <word>
+understand                  <word>
+know                        <word>
+close                       <word>
+open                        <word>
+sit                         <word>
+stand                       <word>
+move                        <word>
+go                          <word>
+give                        <word>
+take                        <word>
+receive                     <word>
+ask                         <word>
+say/tell                    <word>
+walk                        <word>
+run                         <word>
+eat                         <word>
+drink                       <word>
+pay                         <word>
+work                        <word>
+read                        <word>
+change                      <word>
+create                      <word>
+destroy                     <word>
+swim                        <word>
+repeat                      <word>
+respond                     <word>
+scratch                     <word>
+bite                        <word>
+chew                        <word>
+kiss                        <word>
+sing                        <word>
+dance                       <word>
+rub                         <word>
+push                        <word>
+pull                        <word>
+press                       <word>
+grab                        <word>
+squeeze                     <word>
+release                     <word>
+lift                        <word>
+raise                       <word>
+lower                       <word>
+provide                     <word>
+plan                        <word>
+arrange                     <word>
+lose                        <word>
+find                        <word>
+fall                        <word>
+pick up/collect             <word>
+start                       <word>
+stop                        <word>
+continue                    <word>
+split                       <word>
+combine                     <word>
+join                        <word>
+buy                         <word>
+sell                        <word>
+participate                 <word>
+include                     <word>
+exclude                     <word>
+enter                       <word>
+leave                       <word>
+complete                    <word>
+
+--------------------------------------------
+Adjectives / Adverbs
+--------------------------------------------
+good                        <word>
+bad                         <word>
+well (adverb)               <word>
+happy                       <word>
+sad                         <word>
+angry                       <word>
+empty                       <word>
+full                        <word>
+half                        <word>
+clean                       <word>
+dirty                       <word>
+a little                    <word>
+a lot                       <word>
+origin                      <word>
+destination                 <word>
+beginning                   <word>
+end                         <word>
+forwards                    <word>
+backwards                   <word>
+back                        <word>
+before                      <word>
+after                       <word>
+above                       <word>
+below                       <word>
+tall                        <word>
+short                       <word>
+bright                      <word>
+dark                        <word>
+black                       <word>
+white                       <word>
+heavy                       <word>
+light                       <word>
+slow                        <word>
+fast                        <word>
+more                        <word>
+less                        <word>
+high                        <word>
+higher                      <word>
+low                         <word>
+lower                       <word>
+same as                     <word>
+different                   <word>
+horizontal                  <word>
+vertical                    <word>
+elegant                     <word>
+intelligent                 <word>
+
+--------------------------------------------
+Time
+--------------------------------------------
+moment                      <word>
+time                        <word>
+past                        <word>
+future                      <word>
+today                       <word>
+tomorrow                    <word>
+yesterday                   <word>
+day after tomorrow          <word>
+day before yesterday        <word>
+week                        <word>
+month                       <word>
+year                        <word>
+hour                        <word>
+now                         <word>
+soon                        <word>
+later                       <word>
+morning                     <word>
+afternoon                   <word>
+evening                     <word>
+night                       <word>
+
+--------------------------------------------
+Relationships/Roles
+--------------------------------------------
+mother                      <word>
+father                      <word>
+girlfriend/boyfriend        <word>
+friend                      <word>
+daughter/son                <word>
+husband                     <word>
+wife                        <word>
+grandmother/father          <word>
+sister/brother              <word>
+granddaughter/son           <word>
+doctor                      <word>
+president                   <word>
+pet                         <word>
+
+--------------------------------------------
+Living Beings
+--------------------------------------------
+man                         <word>
+woman                       <word>
+boy                         <word>
+girl                        <word>
+cat                         <word>
+dog                         <word>
+bird                        <word>
+animal                      <word>
+monkey                      <word>
+tree                        <word>
+fish                        <word>
+turtle                      <word>
+dinosaur                    <word>
+
+--------------------------------------------
+Conversation
+--------------------------------------------
+I am sorry                  <word>
+please                      <word>
+thank you                   <word>
+you're welcome              <word>
+excuse me                   <word>
+what's up?                  <word>
+English                     <word>
+Spanish                     <word>
+"Qua?"                      <word>
+pardon?                     <word>
+sure                        <word>
+see you                     <word>
+see you soon                <word>
+see you later               <word>
+see you tomorrow            <word>
+what time is it?            <word>
+where are we?               <word>
+what is your name?          <word>
+my name is Pedro            <word>
+where are you from?         <word>
+I am from the US            <word>
+I am American               <word>
+
+--------------------------------------------
+Places
+--------------------------------------------
+airport                     <word>
+market                      <word>
+bathroom                    <word>
+hospital                    <word>
+office                      <word>
+restaurant                  <word>
+ground                      <word>
+sky                         <word>
+
+--------------------------------------------
+Events
+--------------------------------------------
+breakfast                   <word>
+lunch                       <word>
+dinner                      <word>
+Day of the Dead             <word>
+Christmas                   <word>
+vacation                    <word>
+
+--------------------------------------------
+Things
+--------------------------------------------
+container                   <word>
+taxi                        <word>
+passport                    <word>
+telephone                   <word>
+suitcase                    <word>
+reservation                 <word>
+bus                         <word>
+ticket                      <word>
+train                       <word>
+money                       <word>
+bank                        <word>
+street                      <word>
+cup                         <word>
+check                       <word>
+table                       <word>
+person                      <word>
+house                       <word>
+glass                       <word>
+door                        <word>
+window                      <word>
+building                    <word>
+book                        <word>
+asteroid                    <word>
+crater                      <word>
+shirt                       <word>
+ocean                       <word>
+boat                        <word>
+thing                       <word>
+jungle                      <word>
+clothes                     <word>
+underwear                   <word>
+
+--------------------------------------------
+Food
+--------------------------------------------
+milk                        <word>
+apple                       <word>
+bread                       <word>
+meat                        <word>
+fish                        <word>
+cheese                      <word>
+sandwich                    <word>
+juice                       <word>
+orange                      <word>
+tea                         <word>
+coffee                      <word>
+sugar                       <word>
+salt                        <word>
+salad                       <word>
+tomato                      <word>
+food/meal                   <word>
+
+
+To Add:
+hot
+cold
+warm
+cool
+hard
+soft
+straight
+curved
+round
+square
+sharp
+blunt
+inclined/sloped
+step
+play
+enjoy
+turn
+rotate
+shout
+whisper
+blow
+suck
+inhale
+exhale
+place (in a position)
+nod
+acknowledge
+flip/swap
+describe
+explain
+ride
+come
+as
+try(v)/attempt(n)
+together
+bag
+rain
+cloud
+days of the week
+put
+get/bring
+
+Tense/hypothetical:
+should/could/would/will/did
+
