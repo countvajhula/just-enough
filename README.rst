@@ -15,6 +15,7 @@ Things to be Added:
 
 - Grammatical rules, tenses, hypotheticals which provide a "mapping" between source language and destination language
 - Examples
+- Pronunciation
 - All possible variations of example sentences (e.g. by tense, person, gender)
 
 Motivation:
